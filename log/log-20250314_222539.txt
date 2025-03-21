@@ -1,0 +1,5 @@
+2025-03-14 22:25:49,724 - Model names to be used: ['ExtraTree_T+1', 'ExtraTree_T+2', 'ExtraTree_T+3', 'ExtraTree_T+4', 'ExtraTree_T+5', 'ExtraTree_T+6', 'ExtraTree_T+7', 'ExtraTree_T+8', 'ExtraTree_T+9', 'ExtraTree_T+10', 'ExtraTree_T+11', 'ExtraTree_T+12']
+2025-03-14 22:25:49,745 - Building: 1, Data: {'month': 10, 'building': '1', 'Area': '4407.75', 'Unit': 8574, 'holiday': 11, 'Eusers': 0, 'exam': 0, 'semester': 0}
+2025-03-14 22:25:51,283 - Model prediction error for building 1 with model ExtraTree_T+1: X has 8 features, but ExtraTreesRegressor is expecting 62 features as input.
+2025-03-14 22:25:51,284 - Holiday count for year 2023, month 10: 11
+2025-03-14 22:25:51,284 - Final predictions: []

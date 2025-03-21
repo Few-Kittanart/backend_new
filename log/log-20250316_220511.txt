@@ -1,0 +1,2 @@
+2025-03-16 22:05:17,049 - Model names to be used: ['model_T+1', 'model_T+2', 'model_T+3', 'model_T+4', 'model_T+5', 'model_T+6', 'model_T+7', 'model_T+8', 'model_T+9', 'model_T+10', 'model_T+11', 'model_T+12']
+2025-03-16 22:05:23,446 - Prediction error for building 1 with model model_T+1: 'numpy.ndarray' object has no attribute 'predict'
